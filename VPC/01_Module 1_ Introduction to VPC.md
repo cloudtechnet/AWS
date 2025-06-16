@@ -82,20 +82,9 @@ Think of a VPC like a **virtual data center** in the cloud where you design your
 
 ### 🧠 Tip for Students:
 
-> Default VPC = Quick start for learning
-> Custom VPC = Must-have for real-world cloud solutions
+- Default VPC = Quick start for learning
+- Custom VPC = Must-have for real-world cloud solutions
 
 ---
 
-## 📘 **How to Explain Visually (PPT Tips)**:
 
-* Include **a simple diagram** of:
-
-  * Default VPC (with public subnet and internet access)
-  * Custom VPC (with public/private subnets, NAT gateway, IGW)
-* Use a table or comparison chart
-* Add **icons of EC2, IGW, NAT**, etc., to enhance clarity
-
----
-
-Would you like me to prepare **PPT slide-ready content** or visuals for these topics as well?
