@@ -75,7 +75,7 @@ These foundational topics are essential to effectively understand and work with 
 
 * Creating a Custom VPC with 2-tier Architecture
 * Public/Private Subnet setup with NAT Gateway
-* Connecting VPCs using Peering or Transit Gateway
+* Connecting VPCs using Peering & Transit Gateway
 * Use Case: Hosting a Web App in a Secure VPC
 
 
