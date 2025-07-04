@@ -64,7 +64,6 @@ These foundational topics are essential to effectively understand and work with 
 
 * Site-to-Site VPN
 * AWS Direct Connect
-* Hybrid Cloud Connectivity
 
 ### 6. **High Availability & Design Best Practices**
 
